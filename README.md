@@ -5,6 +5,6 @@ This C program shows the nearest cities within in range  according to a specific
 For example when  you write  something to your command line like that: </br>
 >\>.\hw1.exe 32.0 39.0 130 WorldCities.txt Out1.txt </br>
 
-This command creates an Out1.txt file which shows the cities are far from the geographic position( 32.0 lattitude 39.0 longitude ) at most 130 km.  
+This command creates an Out1.txt file which shows the cities are far from the geographic position( 32.0 longitude 39.0 latitude ) at most 130 km.  
   
 
